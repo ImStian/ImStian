@@ -62,5 +62,5 @@
 <br/>  
 
 <div align="center">
-<img src="https://media.tenor.com/IRFM1RzwxV0AAAAi/goku-dance.gif" align="center" style="width: 50%" />
+<img src="https://media.tenor.com/IRFM1RzwxV0AAAAi/goku-dance.gif" align="center" style="width: 30%" />
 </div>  
