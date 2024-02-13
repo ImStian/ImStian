@@ -3,8 +3,6 @@
 <img src="https://media.tenor.com/boP3A19Frl8AAAAi/fast-penguin.gif" align="center" style="width: 50%" />
 </div>  
 <br/>  
-
-
  ### 🔭  I’m currently working on my bachelor thesis about [BlueBoat USV](https://bluerobotics.com/store/boat/blueboat/blueboat/)  
   
 
