@@ -4,13 +4,13 @@
 </div>  
 
 
- ### 🔭  I’m currently working on my bachelor thesis about [BlueBoat USV](https://bluerobotics.com/store/boat/blueboat/blueboat/)  
+ ### 🔭  I’m currently working on my bachelor thesis about [BlueBoat USV](https://bluerobotics.com/store/boat/blueboat/blueboat/).
   
 
- ### 🌱  I’m currently learning everything about cybernetics  
+ ### 🌱  I’m currently learning a little bit of everything.
   
 
- ### ❓  Ask me about anything related to anything I'm working on  
+ ### ❓  Ask me about what I'm working on!
   
 
  ### ⚡  Fun fact: The moon has moonquakes.  
