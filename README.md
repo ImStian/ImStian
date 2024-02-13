@@ -1,6 +1,6 @@
 ## <div align="center">I'm Stian, an Electrical Engineer student 👨‍💻 Sometimes I code a bit :) 🚀</div>  
 <div align="center">
-<img src="https://media.tenor.com/boP3A19Frl8AAAAi/fast-penguin.gif" align="center" style="width: 50%" />
+<img src="https://media.tenor.com/HNUm7KpkGcEAAAAi/transparent-happy.gif" align="center" style="width: 50%" />
 </div>  
 
 
