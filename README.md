@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://media.tenor.com/HNUm7KpkGcEAAAAi/transparent-happy.gif" align="center" style="width: 50%" />
 </div>  
-  
 
 ## <div align="center">I'm Stian, an Electrical Engineer student 👨‍💻 Sometimes I code a bit :) 🚀</div>  
   
@@ -61,3 +60,7 @@
   
 
 <br/>  
+
+<div align="center">
+<img src="https://media.tenor.com/IRFM1RzwxV0AAAAi/goku-dance.gif" align="center" style="width: 50%" />
+</div>  
