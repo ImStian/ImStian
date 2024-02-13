@@ -1,5 +1,9 @@
 ## <div align="center">I'm Stian, an Electrical Engineer student 👨‍💻 Sometimes I code a bit :) 🚀</div>  
-  
+<div align="center">
+<img src="https://media.tenor.com/boP3A19Frl8AAAAi/fast-penguin.gif" align="center" style="width: 50%" />
+</div>  
+<br/>  
+
 
  ### 🔭  I’m currently working on my bachelor thesis about [BlueBoat USV](https://bluerobotics.com/store/boat/blueboat/blueboat/)  
   
@@ -12,7 +16,3 @@
 
  ### ⚡  Fun fact: The moon has moonquakes.  
   
-<div align="center">
-<img src="https://media.tenor.com/boP3A19Frl8AAAAi/fast-penguin.gif" align="center" style="width: 50%" />
-</div>  
-<br/>  
