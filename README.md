@@ -4,7 +4,7 @@
 </div>  
 
 
- ### 🔭  I’m currently working on my bachelor thesis about [BlueBoat USV](https://bluerobotics.com/store/boat/blueboat/blueboat/).
+ ### 🔭  I’m currently working on my bachelor thesis about pathplanning for the [BlueBoat USV](https://bluerobotics.com/store/boat/blueboat/blueboat/).
   
 
  ### 🌱  I’m currently learning a little bit of everything.
