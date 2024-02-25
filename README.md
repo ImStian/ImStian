@@ -1,5 +1,4 @@
 ## <div align="center">I'm Stian, an Electrical Engineer student 👨‍💻 Sometimes I code a bit :) 🚀</div>  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Micro+5&size=72&pause=1000&center=true&random=true&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 <div align="center">
 <img src="https://media.tenor.com/HNUm7KpkGcEAAAAi/transparent-happy.gif" align="center" style="width: 50%" />
 </div>  
