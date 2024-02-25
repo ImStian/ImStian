@@ -12,6 +12,4 @@
 
  ### ❓  Ask me about what I'm working on!
   
-
- ### ⚡  Fun fact: The moon has moonquakes.  
   
