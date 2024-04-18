@@ -6,7 +6,7 @@
  ### 🔭  I’m currently working on my bachelor thesis about pathplanning for the [BlueBoat USV](https://bluerobotics.com/store/boat/blueboat/blueboat/).
   
 
- ### 🌱  I’m currently learning about global path planning, MAVLink, ArduPilot, Unity, QGML, Python and much more!
+ ### 🌱  I’m currently learning about global path planning, MAVLink, ArduPilot, Unity, QML, Python and much more!
   
 
  ### ❓  Ask me about what I'm working on!
