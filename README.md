@@ -1,14 +1,15 @@
-## <div align="center">I'm Stian, an Electrical Engineer student 👨‍💻 Sometimes I code a bit :) 🚀</div>  
-<div align="center">
-<img src="https://media.tenor.com/HNUm7KpkGcEAAAAi/transparent-happy.gif" align="center" style="width: 50%" />
-</div>  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=150&section=header)
+<h1 align="center"> Hi there, I'm Stian 👋 </h1>
 
- ### 🔭  I’m currently working on my bachelor thesis about pathplanning for the [BlueBoat USV](https://bluerobotics.com/store/boat/blueboat/blueboat/).
-  
+<p align="center"> I'm an Electrical Engineer passionate about technology and coding.
+I have experience working with IoT- systems, PLC-based automation and navigation systems for autonomous vehicles. 
+Love to mess around with code and learn new things. :) </p>
 
- ### 🌱  I’m currently learning about global path planning, MAVLink, ArduPilot, Unity, QML, Python and much more!
-  
+<h2 align="center"> 🛠️ Skills & Technologies </h2>
+<p align="center">
+  - <strong>Languages</strong>: Python, C++, Arduino C, Structured Text <br>
+  - <strong>Technologies</strong>: PLC, MQTT, MAVLink, ArduPilot, NodeRED <br>
+  - <strong>Interests</strong>: Navigation Systems, Data Processing and Machine Learning
+</p>
 
- ### ❓  Ask me about what I'm working on!
-  
-  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&section=footer)
